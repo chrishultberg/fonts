@@ -2,7 +2,7 @@ name: "Shippori Antique B1"
 designer: "FONTDASU"
 license: "OFL"
 category: "SANS_SERIF"
-date_added: "2020-12-09"
+date_added: "2020-12-14"
 fonts {
   name: "Shippori Antique B1"
   style: "normal"
@@ -12,8 +12,6 @@ fonts {
   full_name: "Shippori Antique B1 Regular"
   copyright: "Copyright 2020 The Shippori Antique Project Authors (https://github.com/fontdasu/ShipporiAntique)"
 }
-subsets: "chinese-simplified"
-subsets: "chinese-traditional"
 subsets: "japanese"
 subsets: "latin"
 subsets: "latin-ext"
