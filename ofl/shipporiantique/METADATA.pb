@@ -18,7 +18,3 @@ subsets: "japanese"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
-source {
-  repository_url: "https://github.com/fontdasu/ShipporiAntique.git"
-  commit: "c513fcbb513c8443af440be6dd3effe33e434719"
-}
