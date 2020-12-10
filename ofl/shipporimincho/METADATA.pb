@@ -2,7 +2,7 @@ name: "Shippori Mincho"
 designer: "FONTDASU"
 license: "OFL"
 category: "SERIF"
-date_added: "2020-12-10"
+date_added: "2020-12-14"
 fonts {
   name: "Shippori Mincho"
   style: "normal"
@@ -48,8 +48,6 @@ fonts {
   full_name: "Shippori Mincho ExtraBold"
   copyright: "Copyright 2020 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)"
 }
-subsets: "chinese-simplified"
-subsets: "chinese-traditional"
 subsets: "japanese"
 subsets: "latin"
 subsets: "latin-ext"
