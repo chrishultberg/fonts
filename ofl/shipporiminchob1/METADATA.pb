@@ -54,7 +54,3 @@ subsets: "japanese"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
-source {
-  repository_url: "https://github.com/fontdasu/ShipporiMincho.git"
-  commit: "8317fbf526431196a2167ceb9baf51122e38be11"
-}
