@@ -36,7 +36,3 @@ axes {
   min_value: 1.0
   max_value: 1000.0
 }
-source {
-  repository_url: "https://github.com/lettersoup/Sofia-Sans"
-  commit: "135d7197ebb2fe931460bca5d7e3296fad061aae"
-}
